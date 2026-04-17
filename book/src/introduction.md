@@ -11,6 +11,14 @@ first move all the way to grandmaster-level thinking.
 This is the **complete, unabridged book**. Every chapter, every annotated
 game, every exercise — free to read, free to share, free to study.
 
+## 📥 Download the Full Book
+
+<p align="center">
+  <a href="https://github.com/kitfoxs/grandmaster-codex/raw/main/downloads/Grandmaster-Codex-Complete.epub"><strong>📘 Download EPUB (79 MB)</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/kitfoxs/grandmaster-codex/raw/main/downloads/Grandmaster-Codex-Complete.pdf"><strong>📕 Download PDF (43 MB)</strong></a>
+</p>
+
 ## How to Use This Book
 
 - **Use the sidebar** to jump to any volume or chapter.
