@@ -91,4 +91,3 @@
 - [Bibliography](./reference/BIBLIOGRAPHY.md)
 - [Research Citations](./reference/RESEARCH_CITATIONS.md)
 - [Game Sources Index](./reference/GAME_SOURCES_INDEX.md)
-- [Academic Standards](./reference/ACADEMIC_STANDARDS_REPORT.md)
