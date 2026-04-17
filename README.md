@@ -19,13 +19,41 @@ Most chess books leave gaps. You finish a "beginner" book and you're lost openin
 
 Every game annotated in the book has been verified with **Stockfish 17** at high depth. Every diagram was generated programmatically — no hand-drawn errors, no typos in FEN, no ASCII boards. Over **2,800 chess diagrams** are rendered inline, so you can read it on any device without a physical board.
 
+## 🧠 Built for Neurodivergent Minds
+
+The Grandmaster Codex is one of the first complete chess curriculums **deliberately designed for neurodivergent learners** — including autistic readers, ADHD readers, dyslexic readers, and anyone who has ever bounced off a traditional chess book.
+
+Every chapter follows the **same predictable structure**:
+
+1. Rating target and guiding quote
+2. *What You'll Learn* (clear, bulleted outcomes)
+3. Theory (short sections, no walls of text)
+4. Annotated games with inline diagrams
+5. Exercises
+6. *Key Takeaways* (bulleted recap)
+7. *Practice Assignment*
+8. *Progress Check* (self-assessment)
+9. **Rest Marker** — explicit permission to stop and come back later
+
+**Why this matters:**
+
+- **Pattern-based learning** — the repeating chapter template makes the cognitive load predictable; you never waste working memory figuring out where you are
+- **2,844 inline diagrams** — no FEN decoding, no ASCII boards, no holding positions in your head
+- **Rest markers** — the book actively tells you when to stop, something no other chess book does
+- **No time pressure** — no "study this every day for 30 days" guilt loops
+- **Sensory-friendly typography** — clean layout, consistent spacing, high-contrast diagrams
+- **Stockfish-verified** — no confidence-destroying errors or contradicting analysis
+- **Written by a neurodivergent author** — Kit is autistic + ADHD and wrote the book she wishes had existed
+
+If you have ever felt that chess books were written for a brain that isn't yours, this one is.
+
 ## 🎯 Who This Book Is For
 
 - **Complete beginners** who have never played a game of chess and want a single resource that will take them all the way to master level
 - **Club players** (1200–1800) who feel stuck on a plateau and want a structured path forward
 - **Adult improvers** who missed chess as kids and want to train efficiently with limited time
 - **Coaches** looking for a complete curriculum for students of any age
-- **Neurodivergent learners** — the book is deliberately structured with clear patterns, progress checks, and rest markers, making it ADHD- and autism-friendly
+- **Neurodivergent learners** — autistic, ADHD, dyslexic, and others. The book is deliberately structured with repeating chapter templates, explicit rest markers, and sensory-friendly layout (see [section above](#-built-for-neurodivergent-minds))
 - **Homeschool parents** teaching chess as part of a classical or logic-based curriculum
 - **Chess programmers and AI researchers** interested in a human-readable, fully-verified training corpus
 
@@ -81,4 +109,4 @@ You may read the online edition freely. Redistribution, derivative works, and co
 
 ## 🔗 Keywords
 
-chess book · learn chess · chess training · chess improvement · chess for beginners · chess for adults · chess curriculum · chess course · Stockfish · chess tactics · chess strategy · chess endgame · chess opening · chess middlegame · annotated games · grandmaster · chess ELO · chess rating · 500 to 2500 ELO · complete chess book · free chess book · open source chess book · chess PDF · chess EPUB · chess Kindle · Lelock University Press
+chess book · learn chess · chess training · chess improvement · chess for beginners · chess for adults · chess curriculum · chess course · **neurodivergent chess book** · **autism-friendly chess book** · **ADHD-friendly chess book** · **dyslexia-friendly chess book** · **chess for neurodiverse learners** · **accessible chess book** · Stockfish · chess tactics · chess strategy · chess endgame · chess opening · chess middlegame · annotated games · grandmaster · chess ELO · chess rating · 500 to 2500 ELO · complete chess book · free chess book · open source chess book · chess PDF · chess EPUB · chess Kindle · Lelock University Press
