@@ -38,10 +38,6 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Assemble book source
-        working-directory: book
-        run: python3 build.py
-
       - name: Build mdBook
         working-directory: book
         run: mdbook build
