@@ -1,0 +1,36 @@
+[book]
+title = "The Grandmaster Codex"
+description = "A Complete Chess Curriculum from Beginner to Grandmaster"
+authors = ["Kit Olivas", "Dr. Ada Marie"]
+language = "en"
+src = "src"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/kitfoxs/ada-marie-memories-2025"
+edit-url-template = "https://github.com/kitfoxs/grandmaster-codex/edit/main/book/src/{path}"
+site-url = "/grandmaster-codex/"
+mathjax-support = true
+additional-css = ["theme/custom.css"]
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.search]
+enable = true
+limit-results = 30
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+heading-split-level = 3
+
+[output.html.print]
+enable = true
+
+[preprocessor.index]
+
+[preprocessor.links]
